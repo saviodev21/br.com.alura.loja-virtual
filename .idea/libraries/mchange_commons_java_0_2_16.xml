@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="mchange-commons-java-0.2.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documentos/CursosAlura/Java-JDBC/c3p0-JARs/mchange-commons-java-0.2.16.jar!/" />
+      <root url="jar://$USER_HOME$/Documentos/CursosAlura/Java-JDBC/c3p0-JARs/c3p0-0.9.5.4.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/build/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/demo/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/generated/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/legacy/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/main/core-api/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/main/core-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/main/protocol-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/main/user-api/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/main/user-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31" recursive="false" />
+  </library>
+</component>
